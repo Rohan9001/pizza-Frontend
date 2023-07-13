@@ -11,47 +11,47 @@ const Contact = () => {
           <Col md={6}>
 
             <p>
-            We'd love to hear from you! Whether you have a question, feedback,
-             or simply want to get in touch, feel free to reach out using any of the following methods:
-             <ol>
-              <li>
-                Email:
-                <ul>
-                  <li>
-                  General Inquiries: Send an email for any general 
-                  inquiries or information you may need.
-                  </li>
-                  <li>
-                  Customer Support: If you require assistance with an order or have any
- specific questions related to our products or services, please email 
- for dedicated customer support.
-                  </li>
-                </ul>
-              </li>
-              <li>
-                Phone:
-                <ul>
-                  <li>
-                  Customer Support Hotline: Call our customer support hotline number
-                  to speak with one of our representatives. Our team is available during our
-                   business hours to assist you with any inquiries or concerns you may have.
-                  </li>
-                </ul>
-              </li>
-              <li>
-              Social Media:
-              <ul>
+              We'd love to hear from you! Whether you have a question, feedback,
+              or simply want to get in touch, feel free to reach out using any of the following methods:
+              <ol>
                 <li>
-                Connect with us on social media platforms such as Facebook, Twitter, and Instagram.
-                 Follow our accounts and send us a direct message. We'll be happy to engage with you
-                  and address any questions or comments you may have.
+                  Email:
+                  <ul>
+                    <li>
+                      General Inquiries: Send an email for any general
+                      inquiries or information you may need.
+                    </li>
+                    <li>
+                      Customer Support: If you require assistance with an order or have any
+                      specific questions related to our products or services, please email
+                      for dedicated customer support.
+                    </li>
+                  </ul>
                 </li>
-              </ul>
-              </li>
-             </ol>
-             Please note that our customer support team aims to respond to all inquiries promptly.
-              However, response times may vary based on the volume of requests we receive. We appreciate 
-              your patience and assure you that we value your feedback and strive to provide the best service 
+                <li>
+                  Phone:
+                  <ul>
+                    <li>
+                      Customer Support Hotline: Call our customer support hotline number
+                      to speak with one of our representatives. Our team is available during our
+                      business hours to assist you with any inquiries or concerns you may have.
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  Social Media:
+                  <ul>
+                    <li>
+                      Connect with us on social media platforms such as Facebook, Twitter, and Instagram.
+                      Follow our accounts and send us a direct message. We'll be happy to engage with you
+                      and address any questions or comments you may have.
+                    </li>
+                  </ul>
+                </li>
+              </ol>
+              Please note that our customer support team aims to respond to all inquiries promptly.
+              However, response times may vary based on the volume of requests we receive. We appreciate
+              your patience and assure you that we value your feedback and strive to provide the best service
               possible.
             </p>
 
@@ -90,7 +90,7 @@ const Contact = () => {
           </Col>
           <Col md={6}>
             <Image
-              src="images/farmhouse.jpg" 
+              src="images/farmhouse.jpg"
               style={{ width: "100%", height: "100%" }}
             />
           </Col>

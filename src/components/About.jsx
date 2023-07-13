@@ -7,7 +7,7 @@ const About = () => {
       <Container style={{ marginTop: "50px" }}>
         <h1>Who we are ?</h1>
         <p>
-          Welcome to our pizza delivery website! We are a dedicated team of
+          Welcome to our Home Pizza We are a dedicated team of
           pizza enthusiasts who are passionate about delivering delicious pizzas
           right to your doorstep. We understand that pizza is more than just a meal—it's an experience.
           That's why we strive to provide you with the best possible pizza delivery service.
