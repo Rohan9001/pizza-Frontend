@@ -5,105 +5,143 @@ const About = () => {
   return (
     <>
       <Container style={{ marginTop: "50px" }}>
-        <h1>Whoe we are</h1>
+        <h1>Who we are ?</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi eveniet
-          unde vel dignissimos. Cum minima iste quaerat sequi, eum aspernatur
-          dignissimos magni impedit repudiandae, quidem laudantium accusamus
-          modi, ipsa quae! Facilis ducimus vero saepe illo consectetur.
-          Assumenda vel, temporibus voluptatibus possimus eaque beatae
-          distinctio excepturi eos sint dolore ut architecto iure doloribus
-          debitis similique impedit culpa alias voluptatum ab magni odio quia.
-          Suscipit in tempore alias aut nemo minus velit commodi perspiciatis
-          molestias unde doloremque placeat officia quaerat fuga nisi modi vitae
-          consequuntur, illum harum dolore asperiores at illo itaque! Accusamus
-          sed cumque, quo veniam iure aperiam quod dolorem, unde magnam nobis
-          ullam repudiandae repellat! Cumque, beatae explicabo totam quae
-          incidunt voluptates sit nisi aspernatur tenetur rerum molestiae
-          assumenda in autem commodi, doloribus tempora dolor ab eligendi? Amet
-          voluptatem expedita architecto odit possimus, aperiam commodi ullam
-          accusantium nam magni, placeat error ipsum temporibus nihil molestias
-          a minima hic sapiente at est quae porro. Iste iusto provident, totam
-          laborum in molestiae officia voluptatum quis fugiat ullam amet
-          accusantium ipsam aliquid nisi quaerat a repudiandae consequatur
-          reprehenderit. Ea itaque cupiditate vel sequi blanditiis deleniti hic
-          ipsum eaque officiis adipisci omnis, deserunt rerum, laudantium, et
-          impedit quos a eius soluta ut dolore esse.
+          Welcome to our pizza delivery website! We are a dedicated team of
+          pizza enthusiasts who are passionate about delivering delicious pizzas
+          right to your doorstep. We understand that pizza is more than just a meal—it's an experience.
+          That's why we strive to provide you with the best possible pizza delivery service.
+
+          Our team consists of skilled chefs who handcraft each pizza with care and attention to detail.
+          We use only the freshest ingredients, including locally sourced produce and high-quality meats.
+          Whether you're a fan of classic Margherita or adventurous with toppings,
+          we have a wide variety of options to satisfy your pizza cravings.
+
+          We take pride in our fast and reliable delivery service.
+          Our delivery drivers are friendly, professional, and committed
+          to ensuring that your pizza arrives piping hot and on time.
+          We understand that prompt delivery is essential, especially when hunger strikes!<br /><br />
+          Customer satisfaction is our top priority. We value your feedback and strive to continually
+          improve our service to meet your expectations. Ordering from our website is easy and convenient,
+          allowing you to customize your pizza.
+
+          So sit back, relax, and let us take care of your pizza cravings.
+          We are here to make your pizza delivery experience enjoyable, convenient,
+          and absolutely delicious. Thank you for choosing our pizza delivery website,
+          and we look forward to serving you!
+
         </p>
         <h1>Our Speciality</h1>
         <Row>
           <Col md={6}>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque in
-              quibusdam deserunt tempore enim veritatis ducimus facilis cum
-              animi ex eius doloribus ratione illo, laborum laboriosam!
-              Consequatur maxime placeat, voluptatum veniam quisquam deleniti
-              laudantium repellendus rerum vitae minima dolorum, earum sapiente
-              rem reiciendis voluptas sunt sed repudiandae eaque! Quas adipisci
-              recusandae debitis officia delectus aliquam id harum quis
-              consequuntur vero, iste maxime eius ullam, praesentium qui ut sit
-              consectetur. Quis provident libero ad veniam possimus minus, nulla
-              molestias. Sapiente ipsa amet odio at omnis natus provident
-              eveniet nam aperiam reiciendis nostrum distinctio ea illum
-              accusantium labore, sed quisquam, temporibus vitae.
+              At our pizza delivery website, our specialty lies in creating mouthwatering and innovative pizzas
+              that are sure to tantalize your taste buds. We pride ourselves on offering unique
+              flavor combinations and using the freshest ingredients to deliver an exceptional pizza experience.<br />
+
+              Here are some highlights of our specialty pizzas:<br />
+              <ul>
+                <li>Gourmet Pizzas: Our chefs have crafted a selection of gourmet pizzas
+                  that go beyond the ordinary. From truffle-infused creations to artisanal
+                  cheese blends, these pizzas are designed to bring a touch of elegance and
+                  sophistication to your dining experience.
+                </li>
+                <li>
+                  Signature Pizzas: Our signature pizzas are carefully curated and designed
+                  to showcase the best of our culinary expertise. These pizzas feature a perfect
+                  balance of flavors and are made with premium ingredients, ensuring a truly memorable
+                  eating experience.
+                </li>
+              </ul>
+
+
+
             </p>
           </Col>
           <Col md={6}>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam dignissimos recusandae doloremque mollitia dolorem
-              debitis animi. Natus tempore facere perferendis consequuntur quae
-              temporibus dignissimos velit! Dicta aliquam sint recusandae
-              dignissimos neque quia repellendus dolorum autem aspernatur
-              repudiandae similique hic possimus, repellat voluptatibus
-              architecto voluptate consectetur, amet ducimus eos fugiat
-              asperiores. Quae maiores quis animi sit optio dicta aperiam nulla
-              magnam quisquam rem deserunt explicabo, itaque obcaecati iste. Eum
-              corrupti voluptas veritatis neque sunt recusandae temporibus
-              maiores, mollitia facilis repudiandae magni ipsum iste, voluptates
-              ratione rerum quo dolorem aut impedit omnis reiciendis dolores
-              nam. Accusamus ratione sapiente minima vero ex consequatur.
+            <ul>
+            <li>
+                  Customizable Options: We believe in catering to individual preferences,
+                  which is why we offer a wide range of toppings, sauces, and crust options
+                  to create your own personalized pizza masterpiece. Whether you're a fan of classic
+                  combinations or love experimenting with unique flavors, our customization options
+                  have got you covered.
+                </li>
+                <li>
+                  Vegan and Gluten-Free Pizzas: We understand the importance of catering
+                  to various dietary requirements. That's why we offer vegan and gluten-free
+                  pizza options, made with specially selected ingredients to ensure that
+                  everyone can enjoy a delicious pizza, regardless of dietary restrictions.
+                </li>
+                <li>
+                  Seasonal Specials: To keep things fresh and exciting, we introduce seasonal
+                  specials that reflect the flavors of the season. These limited-time offerings
+                  feature unique ingredients and flavor profiles that celebrate the best of each season.
+                </li>
+            </ul>
             </p>
           </Col>
         </Row>
         <Row>
-          <h1>Our Cheif</h1>
-          <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+          <h1>Our Chef</h1>
+          <Col md={6}>
+          Chef Ravi Kapoor<br/>
+          <ul>
+            <li>
+            Biography: Chef Ravi Kapoor is a highly skilled Indian culinary expert with a
+             deep understanding of regional flavors and spices. Having trained under 
+             renowned chefs across India, Ravi's passion for Indian cuisine is reflected
+              in his diverse repertoire of traditional and contemporary dishes. His culinary
+               journey has taken him from street food stalls to prestigious fine dining establishments,
+                where he continues to push the boundaries of Indian gastronomy.
+            </li>
+            <li>
+            Signature Pizzas:
+            <ul>
+              <li>
+              Butter Chicken Delight: A fusion of Indian and Italian flavors,
+               this pizza features succulent tandoori chicken tikka, creamy butter
+                chicken sauce, mozzarella cheese, diced onions, and a sprinkle of fresh cilantro.
+              </li>
+              <li>
+              Paneer Tikka Masala: Experience the richness of Indian cottage cheese marinated
+               in fragrant spices, grilled to perfection, and topped on a pizza with a spicy
+                tomato-based masala sauce, bell peppers, red onions, and a touch of grated paneer.
+              </li>
+            </ul>
+            </li>
+          </ul>
           </Col>
-          <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+          <Col md={6}>
+          Chef Priya Sharma
+          <ul>
+            <li>
+            Biography: Chef Priya Sharma is a culinary innovator who combines her passion
+             for Indian cuisine with global influences. With a background in molecular gastronomy 
+             and a deep appreciation for local ingredients, Priya creates culinary masterpieces that 
+             are both visually stunning and bursting with flavor. She draws inspiration from her
+              extensive travels across India, exploring diverse regional cuisines and incorporating
+               unique elements into her creations.
+            </li>
+            <li>
+            Signature Pizzas:
+            <ul>
+              <li>
+              Tikka Masala Margherita: A delightful fusion of Indian and Italian flavors, this pizza 
+              features a creamy tikka masala sauce, fresh mozzarella, cherry tomatoes, basil
+               leaves, and a sprinkle of roasted cumin seeds.
+              </li>
+              <li>
+              Palak Paneer Supreme: A vegetarian delight that showcases the richness of creamy spinach
+               (palak) sauce, marinated paneer cubes, roasted garlic, diced tomatoes, and a sprinkle of
+              kasuri methi (dried fenugreek leaves).
+              </li>
+            </ul>
+            </li>
+          </ul>
           </Col>
-          <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
-          </Col>
-          <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
-          </Col>
+          
         </Row>
       </Container>
     </>
