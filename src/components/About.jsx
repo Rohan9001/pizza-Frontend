@@ -60,8 +60,8 @@ const About = () => {
           </Col>
           <Col md={6}>
             <p>
-            <ul>
-            <li>
+              <ul>
+                <li>
                   Customizable Options: We believe in catering to individual preferences,
                   which is why we offer a wide range of toppings, sauces, and crust options
                   to create your own personalized pizza masterpiece. Whether you're a fan of classic
@@ -69,7 +69,7 @@ const About = () => {
                   have got you covered.
                 </li>
                 <li>
-                  Vegan and Gluten-Free Pizzas: We understand the importance of catering
+                  Vegan Pizzas: We understand the importance of catering
                   to various dietary requirements. That's why we offer vegan and gluten-free
                   pizza options, made with specially selected ingredients to ensure that
                   everyone can enjoy a delicious pizza, regardless of dietary restrictions.
@@ -79,69 +79,69 @@ const About = () => {
                   specials that reflect the flavors of the season. These limited-time offerings
                   feature unique ingredients and flavor profiles that celebrate the best of each season.
                 </li>
-            </ul>
+              </ul>
             </p>
           </Col>
         </Row>
         <Row>
           <h1>Our Chef</h1>
           <Col md={6}>
-          Chef Ravi Kapoor<br/>
-          <ul>
-            <li>
-            Biography: Chef Ravi Kapoor is a highly skilled Indian culinary expert with a
-             deep understanding of regional flavors and spices. Having trained under 
-             renowned chefs across India, Ravi's passion for Indian cuisine is reflected
-              in his diverse repertoire of traditional and contemporary dishes. His culinary
-               journey has taken him from street food stalls to prestigious fine dining establishments,
-                where he continues to push the boundaries of Indian gastronomy.
-            </li>
-            <li>
-            Signature Pizzas:
+            Chef Ravi Kapoor<br />
             <ul>
               <li>
-              Butter Chicken Delight: A fusion of Indian and Italian flavors,
-               this pizza features succulent tandoori chicken tikka, creamy butter
-                chicken sauce, mozzarella cheese, diced onions, and a sprinkle of fresh cilantro.
+                Biography: Chef Ravi Kapoor is a highly skilled Indian culinary expert with a
+                deep understanding of regional flavors and spices. Having trained under
+                renowned chefs across India, Ravi's passion for Indian cuisine is reflected
+                in his diverse repertoire of traditional and contemporary dishes. His culinary
+                journey has taken him from street food stalls to prestigious fine dining establishments,
+                where he continues to push the boundaries of Indian gastronomy.
               </li>
               <li>
-              Paneer Tikka Masala: Experience the richness of Indian cottage cheese marinated
-               in fragrant spices, grilled to perfection, and topped on a pizza with a spicy
-                tomato-based masala sauce, bell peppers, red onions, and a touch of grated paneer.
+                Signature Pizzas:
+                <ul>
+                  <li>
+                    Butter Chicken Delight: A fusion of Indian and Italian flavors,
+                    this pizza features succulent tandoori chicken tikka, creamy butter
+                    chicken sauce, mozzarella cheese, diced onions, and a sprinkle of fresh cilantro.
+                  </li>
+                  <li>
+                    Paneer Tikka Masala: Experience the richness of Indian cottage cheese marinated
+                    in fragrant spices, grilled to perfection, and topped on a pizza with a spicy
+                    tomato-based masala sauce, bell peppers, red onions, and a touch of grated paneer.
+                  </li>
+                </ul>
               </li>
             </ul>
-            </li>
-          </ul>
           </Col>
           <Col md={6}>
-          Chef Priya Sharma
-          <ul>
-            <li>
-            Biography: Chef Priya Sharma is a culinary innovator who combines her passion
-             for Indian cuisine with global influences. With a background in molecular gastronomy 
-             and a deep appreciation for local ingredients, Priya creates culinary masterpieces that 
-             are both visually stunning and bursting with flavor. She draws inspiration from her
-              extensive travels across India, exploring diverse regional cuisines and incorporating
-               unique elements into her creations.
-            </li>
-            <li>
-            Signature Pizzas:
+            Chef Priya Sharma
             <ul>
               <li>
-              Tikka Masala Margherita: A delightful fusion of Indian and Italian flavors, this pizza 
-              features a creamy tikka masala sauce, fresh mozzarella, cherry tomatoes, basil
-               leaves, and a sprinkle of roasted cumin seeds.
+                Biography: Chef Priya Sharma is a culinary innovator who combines her passion
+                for Indian cuisine with global influences. With a background in molecular gastronomy
+                and a deep appreciation for local ingredients, Priya creates culinary masterpieces that
+                are both visually stunning and bursting with flavor. She draws inspiration from her
+                extensive travels across India, exploring diverse regional cuisines and incorporating
+                unique elements into her creations.
               </li>
               <li>
-              Palak Paneer Supreme: A vegetarian delight that showcases the richness of creamy spinach
-               (palak) sauce, marinated paneer cubes, roasted garlic, diced tomatoes, and a sprinkle of
-              kasuri methi (dried fenugreek leaves).
+                Signature Pizzas:
+                <ul>
+                  <li>
+                    Tikka Masala Margherita: A delightful fusion of Indian and Italian flavors, this pizza
+                    features a creamy tikka masala sauce, fresh mozzarella, cherry tomatoes, basil
+                    leaves, and a sprinkle of roasted cumin seeds.
+                  </li>
+                  <li>
+                    Palak Paneer Supreme: A vegetarian delight that showcases the richness of creamy spinach
+                    (palak) sauce, marinated paneer cubes, roasted garlic, diced tomatoes, and a sprinkle of
+                    kasuri methi (dried fenugreek leaves).
+                  </li>
+                </ul>
               </li>
             </ul>
-            </li>
-          </ul>
           </Col>
-          
+
         </Row>
       </Container>
     </>
