@@ -9,32 +9,50 @@ const Contact = () => {
       <Container style={{ marginTop: "50px" }}>
         <Row>
           <Col md={6}>
-            <h1>Techinfo YT Pizza Shop</h1>
+
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-              nostrum magni voluptatem perferendis dolorum nisi architecto
-              maxime voluptas exercitationem. Omnis, iure laudantium eveniet
-              voluptas corrupti deserunt minima. Omnis dolore unde, esse magnam
-              animi nesciunt velit impedit eveniet voluptates beatae libero
-              laboriosam soluta dolorem odio delectus nisi suscipit quaerat
-              repudiandae ratione? Cum fugit inventore porro, ipsum quas
-              voluptas? Optio assumenda ut rem totam ea, sequi consequuntur eos
-              magnam asperiores fugiat repudiandae dolor rerum praesentium a
-              deleniti doloribus exercitationem officiis odio iure quis minus
-              omnis quisquam cumque aperiam. Dolorum sed fugit voluptates vel
-              quia sit molestias. Voluptas sint at maxime saepe, fuga
-              exercitationem incidunt eveniet esse laudantium itaque dolores
-              reiciendis nihil quia iste minus minima quas ut doloremque
-              delectus reprehenderit quo voluptate molestiae omnis earum. Nemo
-              corporis possimus, ea animi quis ipsam, dolorem facere eum sint
-              adipisci aperiam odit repellendus inventore qui eius magnam cumque
-              iste, sit maiores iusto modi distinctio reiciendis. Voluptatem
-              omnis nam iste culpa, a pariatur facere debitis mollitia impedit
-              ea, similique iusto veritatis ab. Eum sint possimus facilis
-              praesentium nostrum iure voluptatem, explicabo dolorum, illum
-              maxime corrupti itaque esse aspernatur voluptates, in officiis
-              temporibus obcaecati. Sunt ad velit beatae deserunt ab iure
-              veritatis modi dolorum? Quisquam, reiciendis iusto.
+            We'd love to hear from you! Whether you have a question, feedback,
+             or simply want to get in touch, feel free to reach out using any of the following methods:
+             <ol>
+              <li>
+                Email:
+                <ul>
+                  <li>
+                  General Inquiries: Send an email for any general 
+                  inquiries or information you may need.
+                  </li>
+                  <li>
+                  Customer Support: If you require assistance with an order or have any
+ specific questions related to our products or services, please email 
+ for dedicated customer support.
+                  </li>
+                </ul>
+              </li>
+              <li>
+                Phone:
+                <ul>
+                  <li>
+                  Customer Support Hotline: Call our customer support hotline number
+                  to speak with one of our representatives. Our team is available during our
+                   business hours to assist you with any inquiries or concerns you may have.
+                  </li>
+                </ul>
+              </li>
+              <li>
+              Social Media:
+              <ul>
+                <li>
+                Connect with us on social media platforms such as Facebook, Twitter, and Instagram.
+                 Follow our accounts and send us a direct message. We'll be happy to engage with you
+                  and address any questions or comments you may have.
+                </li>
+              </ul>
+              </li>
+             </ol>
+             Please note that our customer support team aims to respond to all inquiries promptly.
+              However, response times may vary based on the volume of requests we receive. We appreciate 
+              your patience and assure you that we value your feedback and strive to provide the best service 
+              possible.
             </p>
 
             <Table striped bordered hover className="text-center">
@@ -65,14 +83,14 @@ const Contact = () => {
                     <AiOutlineMail />
                   </td>
                   <td>Email</td>
-                  <td>Help@urdomain.com</td>
+                  <td>Help@homepizza.com</td>
                 </tr>
               </tbody>
             </Table>
           </Col>
           <Col md={6}>
             <Image
-              src="images/farmhouse.jpg"
+              src="images/farmhouse.jpg" 
               style={{ width: "100%", height: "100%" }}
             />
           </Col>
