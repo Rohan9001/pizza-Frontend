@@ -47,7 +47,7 @@ const AddNewPizza = () => {
               type="text"
               value={name}
               onChange={(e) => setname(e.target.value)}
-              placeholder="Enter Name"
+              placeholder="Enter email"
             />
           </Form.Group>
           <Row className="mb-3 mt-3">
@@ -72,7 +72,7 @@ const AddNewPizza = () => {
             </Form.Group>
 
             <Form.Group as={Col} controlId="formGridZip">
-              <Form.Label>Large Price</Form.Label>
+              <Form.Label>Larg Price</Form.Label>
               <Form.Control
                 type="text"
                 value={largprice}
