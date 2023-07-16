@@ -64,7 +64,7 @@ const EditPizza = ({ match }) => {
               type="text"
               value={name}
               onChange={(e) => setname(e.target.value)}
-              placeholder="Enter email"
+              placeholder="Enter name"
             />
           </Form.Group>
           <Row className="mb-3 mt-3">
@@ -89,12 +89,12 @@ const EditPizza = ({ match }) => {
             </Form.Group>
 
             <Form.Group as={Col} controlId="formGridZip">
-              <Form.Label>Larg Price</Form.Label>
+              <Form.Label>Large Price</Form.Label>
               <Form.Control
                 type="text"
                 value={largprice}
                 onChange={(e) => setlargprice(e.target.value)}
-                placeholder="Enter larg price"
+                placeholder="Enter large price"
               />
             </Form.Group>
           </Row>
