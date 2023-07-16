@@ -51,7 +51,7 @@ const Pizzaslist = () => {
                       <br />
                       Medium : {pizza.prices[0]["medium"]}
                       <br />
-                      Large : {pizza.prices[0]["large"]}
+                      Large : {pizza.prices[0]["larg"]}
                     </td>
                     <td>{pizza.category}</td>
                     <td>

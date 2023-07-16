@@ -27,7 +27,7 @@ const EditPizza = ({ match }) => {
         setimage(pizza.image);
         setsmallPrice(pizza.prices[0]["small"]);
         setmediumPrice(pizza.prices[0]["medium"]);
-        setlargprice(pizza.prices[0]["large"]);
+        setlargprice(pizza.prices[0]["larg"]);
       } else {
         dispatch(getPizzaById(match.params.pizzaId));
       }
